@@ -1,0 +1,333 @@
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.Form1.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\bin\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\bin\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\bin\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\bin\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.Form1.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\2\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\bin\Debug\Reports\EmpReport.rpt
+D:\Data 1\Study\Aptech\Semester\project\last Review\2\PayRoll\bin\Debug\Reports\EmpReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Pro.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.rpt
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.cs
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.Pro.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+D:\Data 1\Study\Aptech\Semester\project\last Review\12\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PasswordChangeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EntryExitBySelf.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.AddDepartment.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\obj\Debug\PayRoll.AddDesignations.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.CompanyDetailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\ZProject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\bin\Debug\Reports\AuditReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\zproject\payroll\PayRoll\bin\Debug\Reports\AuditReport.cs
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.rpt
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.rpt
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.rpt
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.rpt
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.rpt
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.cs
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.cs
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.cs
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.cs
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.cs
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDepartment.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDesignations.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.CompanyDetailForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EntryExitBySelf.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PasswordChangeForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Pro.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+C:\Users\OK Computers\Desktop\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDepartment.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDesignations.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.CompanyDetailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EntryExitBySelf.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PasswordChangeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Pro.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Bachat\2\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.rpt
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.cs
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDepartment.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDesignations.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.CompanyDetailForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EntryExitBySelf.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PasswordChangeForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Pro.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+D:\Data 1\Study\Aptech\Semester\2nd Semester\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AllowanceReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AuditReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\DeductionReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\EmpReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\PaymentReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csprojResolveAssemblyReference.cache
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AccountantPortal.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDepartment.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddDesignations.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AdminPortal.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AllowanceForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AttendanceForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AuditTrailForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.CompanyDetailForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.DetectionForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Employee_RegistrationForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeAbsentFormRec.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeEntryFormRec.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeExitFormRec.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeProfileForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalAllowanceForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmployeeTotalDeductionForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EntryExitBySelf.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Login.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.GeneralEmployeePortal.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PasswordChangeForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.PaymentReport.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Pro.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.ReceptionestPortal.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmpReportForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SalaryUpdateForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.SearchForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.Cache
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.AddHollyday.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.HollyDayReportForm.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\HollydayReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\HollydayReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AtdReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\AtdReport.cs
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.EmpMonthlyReport.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\obj\Debug\PayRoll.Form2.resources
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\MonthlyReport.rpt
+C:\Users\OK Computers\Desktop\Final Project\zproject\PayRoll\PayRoll\bin\Debug\Reports\MonthlyReport.cs

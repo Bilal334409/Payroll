@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CrystalReport xmlns="urn:crystal-reports:schemas:report-detail"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:crystal-reports:schemas:report-detail http://www.businessobjects.com/products/xml/CR2008Schema.xsd">
+<ReportHeader>
+<Section SectionNumber="0">
+<Field Name="PrintDate1" FieldName="PrintDate"><FormattedValue>7/9/2018</FormattedValue><Value>2018-07-09</Value></Field>
+</Section>
+</ReportHeader>
+<Details Level="1">
+<Section SectionNumber="0">
+<Field Name="Employeeid1" FieldName="{SP_EmployeeReport;1.Employee id}"><FormattedValue>108</FormattedValue><Value>108</Value></Field>
+<Field Name="FirstName1" FieldName="{SP_EmployeeReport;1.First Name}"><FormattedValue>Bilal</FormattedValue><Value>Bilal</Value></Field>
+<Field Name="LastName1" FieldName="{SP_EmployeeReport;1.Last Name}"><FormattedValue>Sheikh</FormattedValue><Value>Sheikh</Value></Field>
+<Field Name="DateOfBirth1" FieldName="{SP_EmployeeReport;1.Date Of Birth}"><FormattedValue>07/02/1998</FormattedValue><Value>07/02/1998</Value></Field>
+<Field Name="Gender1" FieldName="{SP_EmployeeReport;1.Gender}"><FormattedValue>Male</FormattedValue><Value>Male</Value></Field>
+<Field Name="Contact1" FieldName="{SP_EmployeeReport;1.Contact}"><FormattedValue>0341-8547038</FormattedValue><Value>0341-8547038</Value></Field>
+<Field Name="NIC1" FieldName="{SP_EmployeeReport;1.NIC}"><FormattedValue>42201-3434314-5</FormattedValue><Value>42201-3434314-5</Value></Field>
+<Field Name="Address1" FieldName="{SP_EmployeeReport;1.Address}"><FormattedValue>H # 1 St # 7 Area Manghopir</FormattedValue><Value>H # 1 St # 7 Area Manghopir</Value></Field>
+<Field Name="PostCode1" FieldName="{SP_EmployeeReport;1.Post Code}"><FormattedValue>443134</FormattedValue><Value>443134</Value></Field>
+<Field Name="Department1" FieldName="{SP_EmployeeReport;1.Department}"><FormattedValue>Accounts</FormattedValue><Value>Accounts</Value></Field>
+<Field Name="Designation1" FieldName="{SP_EmployeeReport;1.Designation}"><FormattedValue>Accountant</FormattedValue><Value>Accountant</Value></Field>
+<Field Name="Status1" FieldName="{SP_EmployeeReport;1.Status}"><FormattedValue>Active</FormattedValue><Value>Active</Value></Field>
+<Field Name="DateOfHired1" FieldName="{SP_EmployeeReport;1.Date Of Hired}"><FormattedValue>06/04/2018</FormattedValue><Value>06/04/2018</Value></Field>
+<Field Name="BasicSalary1" FieldName="{SP_EmployeeReport;1.Basic Salary}"><FormattedValue>45,000</FormattedValue><Value>45000</Value></Field>
+<Field Name="JobTitle1" FieldName="{SP_EmployeeReport;1.Job Title}"><FormattedValue>Manager</FormattedValue><Value>Manager</Value></Field>
+</Section>
+</Details>
+<Details Level="1">
+<Section SectionNumber="0">
+<Field Name="Employeeid1" FieldName="{SP_EmployeeReport;1.Employee id}"><FormattedValue>110</FormattedValue><Value>110</Value></Field>
+<Field Name="FirstName1" FieldName="{SP_EmployeeReport;1.First Name}"><FormattedValue>Aqsa</FormattedValue><Value>Aqsa</Value></Field>
+<Field Name="LastName1" FieldName="{SP_EmployeeReport;1.Last Name}"><FormattedValue>Iliyas</FormattedValue><Value>Iliyas</Value></Field>
+<Field Name="DateOfBirth1" FieldName="{SP_EmployeeReport;1.Date Of Birth}"><FormattedValue>27/06/1996</FormattedValue><Value>27/06/1996</Value></Field>
+<Field Name="Gender1" FieldName="{SP_EmployeeReport;1.Gender}"><FormattedValue>Female</FormattedValue><Value>Female</Value></Field>
+<Field Name="Contact1" FieldName="{SP_EmployeeReport;1.Contact}"><FormattedValue>03421234431</FormattedValue><Value>03421234431</Value></Field>
+<Field Name="NIC1" FieldName="{SP_EmployeeReport;1.NIC}"><FormattedValue>422013413434</FormattedValue><Value>422013413434</Value></Field>
+<Field Name="Address1" FieldName="{SP_EmployeeReport;1.Address}"><FormattedValue>H # 21 St # 42 Near By Lahori Market Karachi</FormattedValue><Value>H # 21 St # 42 Near By Lahori Market Karachi</Value></Field>
+<Field Name="PostCode1" FieldName="{SP_EmployeeReport;1.Post Code}"><FormattedValue>446546</FormattedValue><Value>446546</Value></Field>
+<Field Name="Department1" FieldName="{SP_EmployeeReport;1.Department}"><FormattedValue>Reception</FormattedValue><Value>Reception</Value></Field>
+<Field Name="Designation1" FieldName="{SP_EmployeeReport;1.Designation}"><FormattedValue>Receptionist</FormattedValue><Value>Receptionist</Value></Field>
+<Field Name="Status1" FieldName="{SP_EmployeeReport;1.Status}"><FormattedValue>Active</FormattedValue><Value>Active</Value></Field>
+<Field Name="DateOfHired1" FieldName="{SP_EmployeeReport;1.Date Of Hired}"><FormattedValue>27/06/2018</FormattedValue><Value>27/06/2018</Value></Field>
+<Field Name="BasicSalary1" FieldName="{SP_EmployeeReport;1.Basic Salary}"><FormattedValue>35,000</FormattedValue><Value>35000</Value></Field>
+<Field Name="JobTitle1" FieldName="{SP_EmployeeReport;1.Job Title}"><FormattedValue>Receptionist</FormattedValue><Value>Receptionist</Value></Field>
+</Section>
+</Details>
+<ReportFooter>
+<Section SectionNumber="0">
+</Section>
+</ReportFooter>
+</CrystalReport>
